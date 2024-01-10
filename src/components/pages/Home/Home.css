@@ -1,0 +1,10 @@
+#img-section{
+  border: 5px solid purple;
+  border-radius: 10px;
+}
+.time-section{
+  font-size: 400%;
+  color: rgb(155, 86, 155);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}

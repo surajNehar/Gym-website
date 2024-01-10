@@ -1,0 +1,17 @@
+
+#nav-section{
+    background-color:rgb(213, 206, 206);
+    
+}
+#nav-content{
+    color: rgb(29, 29, 67);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 130%;
+    font-weight: 500;
+
+}
+#nav-content:hover{
+   background-color:black;
+   color: white;
+   border-radius: 5px;
+}
